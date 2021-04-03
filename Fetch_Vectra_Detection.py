@@ -2,7 +2,7 @@
 # https://VECTRA_URL/api/v2.1/detections?category=command       -> Category of Detection total 6 categories
 #https://VECTRA_URL/api/v2.1/detections/?detection_type=Remote&page=2
 #Change the detection type at both places
-#Use API guide to know more about vectra detections and replace accordingly 
+#Use API guide to know more about vectra detections types and replace accordingly 
 
 import requests
 import os, ssl
