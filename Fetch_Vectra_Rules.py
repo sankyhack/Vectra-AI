@@ -1,4 +1,4 @@
-# Please ensureto change Vectra URL, Token and Path where files will be save
+# Please ensureto change Vectra URL, Token and Path where file will be save
 
 import requests
 import os, ssl
